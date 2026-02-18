@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lis_i_pes/static/css/main.da6e193e.css",
+    "main.js": "/lis_i_pes/static/js/main.fdf2d8a4.js",
+    "static/js/453.d37bcb50.chunk.js": "/lis_i_pes/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/lis_i_pes/index.html",
+    "main.da6e193e.css.map": "/lis_i_pes/static/css/main.da6e193e.css.map",
+    "main.fdf2d8a4.js.map": "/lis_i_pes/static/js/main.fdf2d8a4.js.map",
+    "453.d37bcb50.chunk.js.map": "/lis_i_pes/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6e193e.css",
+    "static/js/main.fdf2d8a4.js"
+  ]
+}
