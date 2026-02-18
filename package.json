@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://autizm6kola-art.github.io/lis_i_pes",
   
+  
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
     "@testing-library/dom": "^10.4.1",
